@@ -848,7 +848,7 @@ D. [SWA-Ethernet1/0/1] stp edged-port enable
 ------- [CIST Global Info] [Mode MSTP] -------
 CIST Bridge :32768.000f-e23e-f9b0
 Bridge Times :Hello 2s MaxAge 20s FwDly 15s MaxHop 20
-从以上输出可以判断    __BC    。（选择一项或多项）
+从以上输出可以判断    __BC__    。（选择一项或多项）
 
 A. 当前交换机工作在RSTP 模式下		B. 当前交换机工作在MSTP 模式下
 C. 当前交换机的桥优先级是32768		D. 当前交换机是根桥
